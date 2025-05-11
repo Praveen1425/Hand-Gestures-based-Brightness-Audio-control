@@ -3,6 +3,9 @@
 This project uses your **webcam and hand gestures** to control your **system volume** and **screen brightness** — without touching your keyboard or mouse. Built using **MediaPipe**, **OpenCV**, and **PyCAW**, 
 it brings an intuitive, contactless control experience to your PC.
 
+![AI-virtual-Mouse hand gestures](https://github.com/user-attachments/assets/84b29d03-b1e7-487e-b7fb-58419f0656db)
+
+
 ## 🚀 Features
 
 - 🟢 **Control Volume** with your **left hand** (distance between thumb and index).
