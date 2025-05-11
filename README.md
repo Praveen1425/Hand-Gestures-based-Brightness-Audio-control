@@ -22,7 +22,7 @@ it brings an intuitive, contactless control experience to your PC.
 
 Install all required libraries in your virtual environment or Anaconda:
 
-In bash
+In bash:
 pip install opencv-python mediapipe screen_brightness_control pycaw comtypes numpy
 
 
